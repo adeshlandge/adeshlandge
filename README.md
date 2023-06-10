@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Spring Boot, ReactJS, Kafka**
 
-- 👨‍💻 All of my projects are available at [https://adeshlandge1998-dev-ed.my.site.com/adeshlandgeportfolio/s/](https://adeshlandge1998-dev-ed.my.site.com/adeshlandgeportfolio/s/)
+- 👨‍💻 All of my projects are available at [https://adeshlandge.com](https://adeshlandge.com)
 
 - 💬 Ask me about **Salesforce, Java, JavaScript**
 
 - 📫 How to reach me **adeshlandge1998@gmail.com**
 
-- 📄 Know about my experiences [https://adeshlandge1998-dev-ed.my.site.com/adeshlandgeportfolio/s/](https://adeshlandge1998-dev-ed.my.site.com/adeshlandgeportfolio/s/)
+- 📄 Know about my experiences [https://adeshlandge.com](https://adeshlandge.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
