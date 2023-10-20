@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adesh Landge</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate full stack/Salesforce developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeshlandge&label=Profile%20views&color=0e75b6&style=flat" alt="adeshlandge" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/adeshlandge" target="blank"><img src="https://img.shields.io/twitter/follow/adeshlandge?logo=twitter&style=for-the-badge" alt="adeshlandge" /></a> </p>
 
-- 🔭 I’m currently working on **React application with Spring boot**
+- 🔭 I’m currently working on **Applying ML and Crowdsourcing in Utility Management Services**
 
-- 🌱 I’m currently learning **Spring Boot, ReactJS, Kafka**
+- 🌱 I’m currently learning **Deep learning, Image Processing, Crowdsourcing**
 
-- 👨‍💻 All of my projects are available at [https://adeshlandge.com](https://adeshlandge.com)
+- 👨‍💻 All of my projects are available at [https://www.adeshlandge.com/projects](https://www.adeshlandge.com/projects)
 
 - 💬 Ask me about **Salesforce, Java, JavaScript**
 
