@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Deep learning, Image Processing, Crowdsourcing**
 
-- 👨‍💻 All of my projects are available at [https://www.adeshlandge.com/projects](Projects)
+- 👨‍💻 All of my projects are available at [Projects](https://www.adeshlandge.com/projects)
 
 - 💬 Ask me about **Salesforce, Java, JavaScript**
 
 - 📫 How to reach me **adeshlandge1998@gmail.com**
 
-- 📄 Know about my experiences [https://adeshlandge.com](https://adeshlandge.com)
+- 📄 Know about my experiences [Work Experience](https://adeshlandge.com/experience)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
