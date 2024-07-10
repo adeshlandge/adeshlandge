@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Applying ML and Crowdsourcing in Utility Management Services**
 
-- 🌱 I’m currently learning **Deep learning, Image Processing, Crowdsourcing**
-
 - 👨‍💻 All of my projects are available at [Projects](https://www.adeshlandge.com/projects)
 
 - 💬 Ask me about **Salesforce, Java, JavaScript**
